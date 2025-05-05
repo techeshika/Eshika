@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m TechEshika
 - 👀 I’m interested in Coding and continuing Projects.
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently learning programming languages and working on Full Stack.
 - 💞️ I’m looking to collaborate with all of you
 <h1 align="center">Hi 👋, I'm Eshika Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
